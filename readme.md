@@ -28,7 +28,7 @@ A browser-based tile map editor built with TypeScript that allows creating, edit
 1. Clone the repository:
 
 ```sh
-git clone [repository-url]
+git clone https://github.com/Szymon-Ziecina/edytor-map.git
 ```
 
 2. Install dependencies:
