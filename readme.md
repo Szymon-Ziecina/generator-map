@@ -71,7 +71,6 @@ The compiled files will be output to the `dist` directory.
   - `ts/` - TypeScript implementation files
   - `types/` - TypeScript type definitions
   - `assets/` - Images and other static assets
-- `dist/` - Compiled output (not versioned)
 - `docs/` - Generated documentation
 
 ## Documentation
